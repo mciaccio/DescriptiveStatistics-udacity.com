@@ -44,16 +44,35 @@ mu - x bar = sampling error - might be wrong
 https://faculty.ncc.edu/LinkClick.aspx?fileticket=465ZU4JCmjg%3D&tabid=3329&mid=4267
 sampling error = sample mean − population mean
 
-X Axis - Independent Variable, Predictor Variable - example Hours slept
-Y Axis - Dependent Variable, or the Outcome - Temporal Memory Score 
+X Axis - Independent Variable, Predictor Variable - example Hours slept - raw count how many from Asia
+X Axis Histogram numerical quantitative - (age) 
+X Axis Bar Graph data is categorical (country), qualitative 
+
+Y Axis - Dependent Variable, or the Outcome - Temporal Memory Score
+Histogram - Y Axis - percetage of people from Asia - Frequency on Y Axis - Histogram Frequency on Y Axis 
 Trying to Predice Tempporal Memory Score from Hours Slept 
 
 Correlation Does Not Prove Causation 
 
+Frequency Distribution Tables 
+Frequency / Absolute Frequency - 2 / 50 
+Relative Frequency (proportions) - 0.04 - value range 0 - 1
+10% 90% etc - overall percentages - not Relative Frequency (proportions) 
+
+Interactive Histogram
+http://www.shodor.org/interactivate/activities/Histogram/
+
+Age data - 
+https://docs.google.com/spreadsheets/d/1FhX_MCkqiXPVArIZi5pO9xPpftHzmqeuY4KbS5qQMv8/edit#gid=0
+
+Bar Graph - spaces between the bars - Asia, Europe and North America - all their own verticle bar
+	distinct categories 
+	bin size constant 
+Histogram - continuum - age for example not countries 
+	Peak - Mode 
 
 
-
-
+sum of deviations should almost always be zero 
 
 
 
