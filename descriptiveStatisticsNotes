@@ -30,11 +30,14 @@ Sample statistics (such as X-bar) are values that describe our sample;
 we use statistics to estimate the population parameters.
 Estimates are our best guesses for the population parameters. So, for example, we would use X-bar to estimate mu.
 
+mu - the population  
+
 Population parameter - number that describes the population 
 
 Use x bar - the sample statistic, to approximate the population parameter - mu 
 
-
+mode not influenced by extreme outliers
+mean / average IS influenced by extreme outliers
 
 
 Data - Spreadsheet  lesson 8 /36 has this link to the data 
@@ -70,9 +73,36 @@ Bar Graph - spaces between the bars - Asia, Europe and North America - all their
 	bin size constant 
 Histogram - continuum - age for example not countries 
 	Peak - Mode 
-
+	Mode - most common value 
+	Mode - multi modal - more than one histogram peak
+	Mode - X axis value, not Y axis value  
+	All about equal - all bins the same height - no mode 
+	Median - value in the middle of the distribution - extreme values have low influence on median 
 
 sum of deviations should almost always be zero 
+
+
+Keyboard Shortcut
+
+Start - A2 cell
+Shift Right Arrow
+CMD - Shift - Right Arrow
+CMD - Shift - Down Arrow 
+
+***
+*** Positively skewed 
+***
+
+Mean greater than the Mode 
+Mode - Median - Mean 
+
+***
+*** Normal Distribution 
+***
+Mode = Median = Mean 
+
+
+
 
 
 
