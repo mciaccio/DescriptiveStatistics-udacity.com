@@ -1,2 +1,2 @@
 # DescriptiveStatistics-udacity.com
-Notes from the audacity.com Introduction to Descriptive Statistics course.
+Notes from the udacity.com Introduction to Descriptive Statistics course
