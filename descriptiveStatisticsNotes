@@ -1,5 +1,4 @@
 
-
 Constructs - examples
 	Difficult to define and measure 
 	Memory
@@ -106,11 +105,29 @@ Mode = Median = Mean
 ***
 
 IQR - Interquartile Range (IQR)
-SS  - Sum of squares
+
+SS  - Sum of squares    
+		     ₂
+	∑ SUM(xi - x̅) 
+
 Standard Deviation - square root variance - most common measure of spread - lowercase sigma 
 Variance - sum - difference mean - squared / n
 
+σ - sigma  lowercase  - standard deviation
 
+<cntrl>k
+s*
+σ
+
+mu - population average - like - x̅ for the sample 
+
+Bessel's correction
+Sample Standard Deviation - (n - 1) - not just n - corrected standard deviation - 
+Use this for a sample of a population.
+In general the population tends to have a larger Standard Deviation.
+Dividing by the smaller number (n - 1) increases the sample Standard Deviation, more closely approximating the true population 
+Standard Deviation.
+lowercase s - the (n - 1) Standard Deviation - the Population Sample Standard Deviation 
 
 
 
