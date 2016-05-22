@@ -129,6 +129,8 @@ Dividing by the smaller number (n - 1) increases the sample Standard Deviation, 
 Standard Deviation.
 lowercase s - the (n - 1) Standard Deviation - the Population Sample Standard Deviation 
 
+∑(xi - x̅)2
+
 
 
 
